@@ -1,10 +1,11 @@
 /* comments look like this in CSS files */
 
 #navbar {
-  background-color: #0B2161; /* bleu */
+  background-color: #29088A; /* bleu */
   color: #ffffff;            /* white */
   margin: 0;
   padding: 0.5em 0; /* 0.5em padding on top/bottom, 0 padding on left/right */
+  margin-top: -1.35em;
 }
 
 #navbar a {
@@ -18,10 +19,10 @@ main {
   padding: 0.5em;
 }
 
-    body{
-    background-color: #eeeeee;
-    width: 100%;
-    height: 100%;}
+body{
+background-color: #eeeeee;
+width: 100%;
+height: 100%;}
 
  #navbar a:hover {
  	color: #DF01D7; /* blue */}
@@ -34,4 +35,12 @@ main {
 	margin: 0px}
 
 .Findmeh {margin: 0px}
+
+#Header {
+	background-image: url("file:///Users/computer/Pictures/Website%20Pictures/blue.jpg");
+	background-size: 100%;
+	color: white; 
+	padding: 0.5em;
+	margin: 5px;
+	padding: 5px}
 
